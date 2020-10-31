@@ -15,5 +15,5 @@ There is a statement summarizing three business recommendations to the CEO for a
 V. Isualize may want to balance her PyBer ratio of rides to drivers. There are more rides and drivers in Rural and Suburban cities and many more drivers than rides in Uban cities. It may be financially advantageous to increase the number of rural suburban drivers to pick up those higher averages of fares per ride. The Urban drivers are numerous and paid the least. 
 fares by date
 fares by week
-
+graph
 
