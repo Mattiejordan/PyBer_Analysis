@@ -11,9 +11,7 @@ In this chart is the summary of our number crunching data. See the Total Rides, 
 ![PyBer_fare_summary](PyBer_fare_summary.png)
 ### Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-V. Isualize may want to balance her PyBer ratio of rides to drivers. There are more rides and drivers in Rural and Suburban cities and many more drivers than rides in Uban cities. It may be financially advantageous to increase the number of rural suburban drivers to pick up those higher averages of fares per ride. The Urban drivers are numerous and paid the least. 
-fares by date
-fares by week
-graph
+
+V. Isualize may want to balance her PyBer ratio of rides to drivers. There are more rides and drivers in Rural and Suburban cities and many more drivers than rides in Uban cities. It may be financially advantageous to increase the number of rural suburban drivers to pick up those higher averages of fares per ride. The Urban drivers are numerous and paid the least. A second aspect for V. Isualize to look at is how specific dates are influential to the rural and suburban city types. Weekends and holidays may be hot times for PyBer in the rural and suburban areas. Urban city types seem to hold more consistent rides throughout the months. Urban PyBer customers may be "frequent fliers" to regulary use PyBer for regular commutes such as for work. One may even surmise creating a coupon system for these "frequent fliers" in urban cities to have a flat rate for all commute. For holidays and weekends the extra drivers from the Urban areas could relocate to Suburban and Rural areas to rack up on the higher average fares. 
+
 
